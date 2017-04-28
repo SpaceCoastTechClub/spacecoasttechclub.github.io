@@ -7,3 +7,4 @@ We are a free and public Slack for the Space Coast tech and creative community.
  - [**Sign Up**]()
  - [**Archive**]()
  - [**Code of Conduct**]()
+ - [**About**]()
