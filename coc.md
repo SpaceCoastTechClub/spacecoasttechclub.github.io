@@ -9,3 +9,5 @@ This code of conduct applies to all public and private channels as well as direc
 If you are being harassed or offended by a member of the community, notice that someone else is being harassed or offended, or have any other concerns, please contact Gil Creque by direct message, @gilcreque. I will respond as promptly as I can.
 
  - [**Home**](https://spacecoasttech.club)
+
+> Thanks to [DC Tech Slack](http://www.dctechslack.com/code_of_conduct.html) for allowing us to use their code of conduct.
