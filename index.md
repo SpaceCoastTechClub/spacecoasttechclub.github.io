@@ -3,8 +3,6 @@
 We are a free and public Slack for the Space Coast tech and creative community.
 
 
- - [**Sign In**]()
- - [**Sign Up**]()
- - [**Archive**]()
- - [**Code of Conduct**]()
- - [**About**]()
+ - [**Sign In**](https://spacecoasttech.slack.com)
+ - [**Sign Up**](https://spacecoasttech.herokuapp.com)
+ - [**Code of Conduct**](/coc)
