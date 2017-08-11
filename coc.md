@@ -7,3 +7,5 @@ The Space Coast Tech Club Slack Community is committed to providing an experienc
 This code of conduct applies to all public and private channels as well as direct messages. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the admins.
 
 If you are being harassed or offended by a member of the community, notice that someone else is being harassed or offended, or have any other concerns, please contact Gil Creque by direct message, @gilcreque. I will respond as promptly as I can.
+
+ - [**Home**](https://spacecoasttech.club)
